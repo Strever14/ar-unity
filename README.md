@@ -1,4 +1,4 @@
-# AR Brosur Catalog Motor 
+# AR Brochure Catalog Motor 
 
 # Overview
 
